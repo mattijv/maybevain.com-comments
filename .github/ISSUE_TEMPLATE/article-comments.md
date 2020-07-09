@@ -2,7 +2,7 @@
 name: Article Comments
 about: Comment thread for an article
 title: Comments for ""
-labels: ''
+labels: comment thread
 assignees: ''
 
 ---
